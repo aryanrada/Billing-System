@@ -4,7 +4,7 @@
 # Installation
 1. Clone the repository<br/>
 2.Run the command:
-
-    python bill.py
+     
+     python bill.py
 
 
