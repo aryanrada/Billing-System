@@ -3,7 +3,10 @@
 
 # Installation
 1. Clone the repository<br/>
-2.Run the command:
+2. Change the code and input your email with which you want to send mail.
+    
+    sender_email = "[YOUR MAIL ID]"
+4. Run the command:
      
      python bill.py
 
