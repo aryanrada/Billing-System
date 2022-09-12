@@ -1,4 +1,4 @@
-# Billing-Management-System
+# Billing-System
  This is a standalone project made in Python including Email feature.
 
 # Installation
